@@ -1,4 +1,4 @@
-#Train Routes
+# Train Routes
 
 It's a program about graphs problems with specific graph and routes predetermined.
 
@@ -19,6 +19,8 @@ To check the tests made run:
 
 ### Stages
 Can calculate route in a specific path given as an array argument
+
 Can calculate the shortest route given a start and end points.
+
 Still developing the diferent routes path from a given start point, end point and number of stops
 
